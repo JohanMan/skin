@@ -1,0 +1,3 @@
+rootProject.name = "SkinPlugin"
+include ':app'
+include ':library'

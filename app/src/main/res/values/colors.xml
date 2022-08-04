@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="status_bar_bg_color">#dd8833</color>
+    <color name="navigation_bar_bg_color">#668833</color>
+
+    <color name="home_background">#03DAC5</color>
+    <color name="home_text_color">#FFFFFF</color>
+    <color name="home_button_text_color">#FFFFFF</color>
+    <color name="home_item_background">#6200EE</color>
+    <color name="home_item_text_color">#CCCCCC</color>
+    <color name="home_item_line_color">#DDDDDD</color>
+    <color name="user_top_bg">#613378</color>
+    <color name="user_bottom_bg">#ffffff</color>
+    <color name="user_name_color">#333333</color>
+    <color name="button_bg_pressed">#999999</color>
+    <color name="button_bg_normal">#dddddd</color>
+
+</resources>
